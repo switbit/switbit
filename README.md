@@ -1,4 +1,4 @@
-## Hi there, I'm SweetBit 🍬⚡
+## Hi there, I'm Switbit 🍬⚡
 
 A developer who loves clean code and sweet solutions.
 This is where my projects, experiments, and a little bit-magic live.
