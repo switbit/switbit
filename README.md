@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi there, I'm SweetBit 🍬⚡
+
+A developer who loves clean code and sweet solutions.
+This is where my projects, experiments, and a little bit-magic live.
 
 <!--
 **switbit/switbit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
