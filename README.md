@@ -3,6 +3,9 @@
 A developer who loves clean code and sweet solutions.
 This is where my projects, experiments, and a little bit-magic live.
 
+- 💬 Open an issue in any of my repositories
+- 🎬 I run contests and activities on **TikTok** — feel free to drop by
+- ✨ Always up for cool ideas, profiles, and side projects
 <!--
 **switbit/switbit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
